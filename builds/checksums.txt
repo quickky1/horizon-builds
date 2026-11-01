@@ -1,0 +1,3 @@
+ac5fbf9c2c6aad75d8bfab8d46e27d46b76101a028bb9af91b58f11f58ce877d  horizon-1.19.3-windows-x86_64.zip
+0ae7f913f1035fe6f4b1cd7ae12198287a6ebbd5a81f66d79ff1b66c14824b26  horizon-1.19.3-windows-tools-x86_64.zip
+8c1c90832694307da162306b61bb07f00861f09297a2af95b82afbf9442b5bad  horizon-1.19.3-linux-x86_64.zip
