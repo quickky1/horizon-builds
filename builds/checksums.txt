@@ -1,0 +1,2 @@
+1f523c28b91b5321258281796fc8afffc6d3efac0d28c34f17be9027d20bf433  horizon-1.21.10-windows-x86_64.zip
+ca16606fc0be628eca6fcae0d65c357d631f411a14423ceb7431e95c0b6916a5  horizon-1.21.10-windows-tools-x86_64.zip
