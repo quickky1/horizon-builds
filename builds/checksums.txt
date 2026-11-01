@@ -1,0 +1,3 @@
+3aefe69c2deeaa0a865eda5964ffd66ac7f9535208d1af1f2831b34b9761d68b  horizon-1.21.4-windows-x86_64.zip
+61775bef5f8fba8d90838481015d413d5f70b9d66aafabdd70e0ea4bdfb0d839  horizon-1.21.4-windows-tools-x86_64.zip
+7a481d9865cbd29a5d9d0b9579ad528ec8c92dfe75b765e226527d700473ea0a  horizon-1.21.4-linux-x86_64.zip
