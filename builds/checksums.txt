@@ -1,0 +1,2 @@
+f2c5ff9588347725446bcf40cbfba06e78eae6f5f2be9dfb82becbd9c73f8000  horizon-26.1-windows-x86_64.zip
+08ac8e0bb36318e84ed0d1b9732f9be613075b0cbf833a6f38a51220400248fc  horizon-26.1-windows-tools-x86_64.zip
